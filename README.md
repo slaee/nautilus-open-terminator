@@ -2,12 +2,11 @@
 
 Add an `Open In Terminator` and `Open Terminator Here` to the right-click menu in Nautilus/Gnome Files
 
-
 ## Dependencies
 
 Ensure you have thr nautilus python bindings installed
 
-    sudo dnf install nautilus-python
+    sudo apt-get install python3-nautilus
 
 ## Install
 
